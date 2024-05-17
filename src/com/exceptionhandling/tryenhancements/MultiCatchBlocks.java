@@ -10,7 +10,7 @@ public class MultiCatchBlocks
             String s=null;
             System.out.println(s.length());
         }
-        catch (ArithmeticException | NullPointerException e)
+        catch (ArithmeticException | NullPointerException  |StackOverflowError e)
         {
             System.out.println(e);
         }
