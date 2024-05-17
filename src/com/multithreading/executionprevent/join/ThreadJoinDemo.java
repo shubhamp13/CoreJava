@@ -1,4 +1,4 @@
-package com.multithreading.executionprevent;
+package com.multithreading.executionprevent.join;
 
 public class ThreadJoinDemo
 {

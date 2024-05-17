@@ -1,4 +1,4 @@
-package com.multithreading.executionprevent;
+package com.multithreading.executionprevent.yield;
 
 public class YieldDemo
 {
