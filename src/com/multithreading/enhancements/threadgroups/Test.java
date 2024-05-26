@@ -1,4 +1,4 @@
-package com.multithreading.enhancements.threadgroup;
+package com.multithreading.enhancements.threadgroups;
 
 public class Test
 {
