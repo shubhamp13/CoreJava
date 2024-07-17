@@ -10,7 +10,7 @@ public class EnhancedForLoop
            2.for each loop is also known as Enhanced for loop
            3.for each loop is best for retrieving elements fro
                 a.arrays
-                b.collections
+                b.com.collections
          */
 //        {
 //            //For One Dimensional Array
