@@ -1,7 +1,4 @@
-package com.newupdates.predefinedfunctionalinterfaces;
-
-import com.newupdates.defaultstaticmethods.I1;
-import com.newupdates.defaultstaticmethods.Interf;
+package com.newupdates.predefinedfunctionalinterfaces.predicate;
 
 import java.util.function.Predicate;
 

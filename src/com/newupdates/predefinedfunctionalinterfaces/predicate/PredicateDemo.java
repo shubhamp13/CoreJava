@@ -1,4 +1,4 @@
-package com.newupdates.predefinedfunctionalinterfaces;
+package com.newupdates.predefinedfunctionalinterfaces.predicate;
 
 import java.util.ArrayList;
 import java.util.Collection;
